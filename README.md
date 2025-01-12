@@ -1,1 +1,0 @@
-# Getter-and-setter-method-
